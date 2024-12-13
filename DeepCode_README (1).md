@@ -1,6 +1,6 @@
-# DeepCode: Sistema d'Intel·ligència Artificial per a l'Anàlisi de Codi
+# TA05-Manual-IA-ASIXA
+#DeepCode
 
-## Resum
 DeepCode és un sistema d'intel·ligència artificial dissenyat per analitzar i millorar codi font de manera automàtica. Utilitza tècniques d'aprenentatge profund i models d'anàlisi contextual per detectar errors, suggerir millores de rendiment i garantir la qualitat del codi.
 
 ## Característiques principals
