@@ -2,10 +2,10 @@
 
 ## Índex
 
-1. [Introducció](#introduccio)
-2. [Característiques Principals](#caracteristiques-principals)
+1. [Introducció](#Introducció)
+2. [Característiques Principals](#característiques-principals)
 3. [Beneficis](#beneficis)
-4. [Aplicacions Pràctiques](#aplicacions-practiques)
+4. [Aplicacions Pràctiques](#aplicacions-pràctiques)
 5. [Conclusions](#conclusions)
 
 ---
