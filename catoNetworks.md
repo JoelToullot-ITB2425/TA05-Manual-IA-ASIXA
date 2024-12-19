@@ -1,11 +1,12 @@
 # Manual sobre la IA de Cato Networks
 
 ## Índex
-1. Introducció
-2. Característiques Principals
-3. Beneficis
-4. Aplicacions Pràctiques
-5. Conclusions
+
+1. [Introducció](#introduccio)
+2. [Característiques Principals](#caracteristiques-principals)
+3. [Beneficis](#beneficis)
+4. [Aplicacions Pràctiques](#aplicacions-practiques)
+5. [Conclusions](#conclusions)
 
 ---
 
