@@ -1,5 +1,5 @@
 # Manual sobre la IA de Cato Networks
-prova
+
 ## Índex
 
 1. [Introducció](#Introducció)
